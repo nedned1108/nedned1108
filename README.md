@@ -2,9 +2,9 @@
   Hi there 👋 My name is Ned. Welcome to my Github Profile! 😊
 </p> -->
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ned+Nguyen;Full-stack%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ned+Nguyen;Full-stack%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+</h2>
 
 <!-- Social icons section -->
 <p align="center">
