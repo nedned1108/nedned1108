@@ -17,7 +17,7 @@
   <img align="right"  alt="GIF" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/top_full_stack.jpg" height="200" width="350" />
   <h2 align="center">About Me</h2>
 
-  <font size="5">Im a software engineer with experience in building ***full stack*** web applications. When I'm not at my desk, I enjoy exploring nature, learning new skills, and doing DIY. My strong interest lies in creating applications that can handle growth and are easy for users to operate. I make a constant effort to stay current with the latest trends by learning new technologies. I am applying for this apprentice program with the hope of finding greater opportunities for professional development and learning from experienced developers.</font>
+  <font size="5">Im a software engineer with experience in building ***full stack*** web applications. When I'm not at my desk, I enjoy exploring nature, learning new skills, and doing DIY. My strong interest lies in creating applications that can handle growth and are easy for users to operate. I make a constant effort to stay current with the latest trends by learning new technologies. I am looking to find greater opportunities for professional development and learning from experienced developers.</font>
 </div>
 
 <br/>
