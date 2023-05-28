@@ -48,13 +48,13 @@
 <br/>
 <br/>
 
-<!--   <h2 align="center"> :gear: Github Stats </h2>
+  <h2 align="center"> :gear: Github Stats </h2>
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedned1108&theme=highcontrast&custom_title=Languages&langs_count=6&title_color=FFF325" height="250" width="250"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=nedned1108&count_private=true&theme=highcontrast&custom_title=Stats&title_color=FFF325" height="250" width="500"/>
 </div>
-<br/> -->
+<br/>
 
 <div align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=nedned1108&color=000000&style=for-the-badge&label=👀Profile Views" />
