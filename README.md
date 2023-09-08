@@ -1,7 +1,7 @@
 <!-- <p align="center">
   Hi there 👋 My name is Ned. Welcome to my Github Profile! 😊
 </p> -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header)
 <h2 align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Ned+Nguyen;Full-stack%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=FFF325&vCenter=true&pause=1000&size=30" />
 </h2>
@@ -66,6 +66,6 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nedned1108)
     
 </div> -->
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
   
   
