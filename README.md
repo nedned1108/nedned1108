@@ -48,9 +48,9 @@
   
   <div align="center">
     <h3>Databases</h3>
-    <img src="https://img.shields.io/badge/mysql-6DA55F?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/mongodb-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=green" />
+    <img src="https://img.shields.io/badge/mysql-%231572B6?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/mongodb-6DA55F.svg?style=for-the-badge&logo=mongodb&logoColor=green" />
   </div>
   
 <div/>
